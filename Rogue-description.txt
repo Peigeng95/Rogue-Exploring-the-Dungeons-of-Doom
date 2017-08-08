@@ -1,0 +1,6 @@
+Language: C++
+
+Designed the project structure by designing the UML diagram
+Coded in C++
+Used Double Dispatch mechanism in the system, such that the effect of attack is different depending on the types of player and enemy.
+Used <ncurses.h> to make the project like an actual game with 'WASD' controls.
