@@ -1,0 +1,30 @@
+|=============================================================================|
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                           Welcome To CC3K                                   |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|    a: attack     u: use     r: restart    q: quit                           |
+|    no: move north   so: move south   ea: move east  we:move west            |
+|    ne: move north-east      nw: move north-west                             |
+|    se: move south-east      sw: move south-west                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|    You can choose your character now :                                      |
+|                                                                             |
+|    H: human                                                                 |
+|    D: Dwarf                                                                 |
+|    E: Elve                                                                  |
+|    O: Orc                                                                   |
+|                                                                             |
+|                                                                             |
+|    Good Luck Have Fun !                                                     |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|=============================================================================|

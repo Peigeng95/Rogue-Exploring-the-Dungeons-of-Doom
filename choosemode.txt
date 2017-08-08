@@ -1,0 +1,30 @@
+|=============================================================================|
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                   Design by Peigeng Han & Bin Sun                           |
+|                                                                             |
+|                     Now please choose your mode                             |
+|                                                                             |
+|                                                                             |
+|                     Type in "command" or "easy"                             |
+|           Warning: anything else will terminate the programme               |
+|                                                                             |
+|                                                                             |
+|                     command: play with command                              |
+|                                                                             |
+|                easy: easyplay! play with 'W''S''A''D'                       |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|=============================================================================|
